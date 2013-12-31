@@ -1,0 +1,8 @@
+author: Alec S
+mancala haskell program. 
+in order to start, if you are playing single player, load up OnePlayerMancala.hs
+run "chmod +x OnePlayerMancala.hs"
+then ./OnePlayerMancala.hs
+make sure that you have ghc and the haskell platform installed
+
+questions? contact linuxbash8@gmail.com
